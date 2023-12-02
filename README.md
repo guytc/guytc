@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning PY
 - 💞️ I’m looking to collaborate on create a website
-- 📫 How to reach me per mail
+- 📫 How to reach me : don't ;)
 
 <!---
 guytc/guytc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
